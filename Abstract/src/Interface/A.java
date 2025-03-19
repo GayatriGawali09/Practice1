@@ -10,4 +10,8 @@ public class A implements demo{
 	 {
 		 System.out.println("b");
 	 }
+	public void c()
+	{
+	 System.out.println("c");	
+	}
 }
